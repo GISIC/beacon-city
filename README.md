@@ -2,8 +2,8 @@
 
 Prototype mobile application to access detailed tourist information using beacons.
 
-Authors: Daniel Alejandro Mora Salcedo, Diego Andrés Apolinar Santos.
-Director: Ing. Carlos Andrés Lozano G.
+> **Authors:** Daniel Alejandro Mora Salcedo, Diego Andrés Apolinar Santos. <br/>
+> **Director:** Ing. Carlos Andrés Lozano G.
 
 # What is this ?
 
