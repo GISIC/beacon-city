@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="@dimen/activity_horizontal_margin" >
+
+    <TextView
+        android:id="@+id/lab_name"
+        style="@style/Base.TextAppearance.AppCompat.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textColor="@color/primary_dark"
+        android:layout_marginBottom="@dimen/default_spacing_major"
+        android:gravity="center"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/img_place"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_below="@+id/lab_name"
+        android:layout_marginBottom="@dimen/default_spacing_minor"
+        android:background="@color/material_blue_grey_900" />
+
+    <TextView
+        android:id="@+id/lab_description"
+        style="@style/Base.TextAppearance.AppCompat.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_below="@+id/img_place"
+        android:layout_marginBottom="@dimen/default_spacing_minor" />
+
+    <TextView
+        android:id="@+id/lab_address"
+        style="@style/Base.TextAppearance.AppCompat.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_below="@+id/lab_description" />
+
+</RelativeLayout>

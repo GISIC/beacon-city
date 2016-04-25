@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <ListView
+        android:id="@+id/list_places"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/lab_scanning"
+        android:padding="@dimen/default_spacing_minor"
+        android:background="@color/white"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="@dimen/item_list_height_divider"
+        android:scrollbars="vertical" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/lab_scanning"
+        style="@style/Base.TextAppearance.AppCompat.Large"
+        android:layout_width="match_parent"
+        android:padding="@dimen/default_spacing_minor"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:textColor="@color/primary_dark"
+        android:text="@string/lab_scanning" />
+
+</RelativeLayout>
