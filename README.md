@@ -2,21 +2,24 @@
 
 Prototype mobile application to access detailed tourist information using beacons.
 
-> **Authors:** Daniel Alejandro Mora Salcedo, Diego Andr閟 Apolinar Santos. <br/>
-> **Director:** Ing. Carlos Andr閟 Lozano G.
+> **Authors:** Daniel Alejandro Mora Salcedo, Diego Andr茅s Apolinar Santos. <br/>
+> **Director:** Ing. Carlos Andr茅s Lozano G.
 
 # What is this ?
 
 This project is a prototype mobile application that provides detailed information about points of interests in a city.
-The prototype presents information of the different buildings in the "El Claustro" campus of the Universidad Cat髄ica de Colombia. 
+The prototype presents information of the different buildings in the "El Claustro" campus of the Universidad Cat贸lica de Colombia. 
 
 The solution runs on Android devices and interacts with beacons for geo-localization
 and a server-side application for data.
 
+The [final report of the project](http://repository.ucatolica.edu.co/jspui/bitstream/10983/2489/1/Documento%20FINAL.pdf) (in Spanish) can be downloaded to obtain more information.
+
 # Que es esto ?
 
-Este proyecto es un prototipo de aplicaci髇 m髒il que provee informaci髇 detallada de los puntos de inter閟 en una ciudad.
-El prototipo presenta informaci髇 de los diferentes edificios de "El Claustro" de la Universidad Cat髄ica de Colombia.
+Este proyecto es un prototipo de aplicaci贸n m贸vil que provee informaci贸n detallada de los puntos de inter茅s en una ciudad.
+El prototipo presenta informaci贸n de los diferentes edificios de "El Claustro" de la Universidad Cat贸lica de Colombia.
 
-La soluci髇 corre en dispositivos Android e interact鷄 con beacons para geoposicionamiento y una aplicaci髇 de servidor para los datos.
+La soluci贸n corre en dispositivos Android e interact煤a con beacons para geoposicionamiento y una aplicaci贸n de servidor para los datos.
 
+El [reporte final del proyecto](http://repository.ucatolica.edu.co/jspui/bitstream/10983/2489/1/Documento%20FINAL.pdf) se puede descargar para obtener m谩s informaci贸n.
